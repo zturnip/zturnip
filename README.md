@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zturnip
-- This is my school account, my main is @dturnip
+- This is my account for dumping random school content. My main is @amiyuki7
 
 <!---
 zturnip/zturnip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
